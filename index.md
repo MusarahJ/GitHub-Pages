@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Test Blog
+---
+About me
 ---
 
